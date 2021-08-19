@@ -6,7 +6,7 @@
   <link href="https://blog.hudeyong.com/atom.xml" rel="self"/>
   
   <link href="https://blog.hudeyong.com/"/>
-  <updated>2021-08-19T03:55:40.363Z</updated>
+  <updated>2021-08-19T08:09:55.919Z</updated>
   <id>https://blog.hudeyong.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://blog.hudeyong.com/2021/08/19/t/"/>
+    <id>https://blog.hudeyong.com/2021/08/19/t/</id>
+    <published>2021-08-19T07:15:46.000Z</published>
+    <updated>2021-08-19T08:09:55.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello</p><p><img src="%5Cimages%5Cpasted-7.png%5C" alt="upload successful"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;%5Cimages%5Cpasted-7.png%5C&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
